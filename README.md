@@ -1,3 +1,4 @@
+![logo](https://github.com/abhinav0223/abhinav/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Abhinav Raj</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
